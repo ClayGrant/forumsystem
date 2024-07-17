@@ -1,8 +1,0 @@
-1. date "+%m/%d/%y"
-2. date "+%A, %B %d, %y"
-3. date "+%a, %b %d, %y"
-4. date "+Day: %A"
-5. date "+Month: %b"
-6. date "+%T %p"
-7. date "+%I:%M %p"
-8. date "+%I %p"
